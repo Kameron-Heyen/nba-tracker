@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Clients", "1. Clients", "{49ED5613-E256-4FDF-BA66-9924B7BDA830}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Managers", "2. Managers", "{DC4864EA-39BB-42E5-89C6-3FEB2118B1AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Accessors", "3. Accessors", "{BC0ACDFA-99E7-4E4E-93B9-FF5A9BE01736}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Service Utilities", "4. Service Utilities", "{80849DCA-1C66-42E4-BBCB-0D4257D4EFA5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Common", "5. Common", "{5D804A37-ABAD-4B1E-855C-F84E36E36950}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Tests", "6. Tests", "{6312C581-2A47-430B-AEB9-B0FA1D83F751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NbaTracker.Functions", "NbaTracker.Functions\NbaTracker.Functions.csproj", "{23FA771E-AE7F-47B4-BF29-7512B5921DB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NbaTracker.Common", "NbaTracker.Common\NbaTracker.Common.csproj", "{5D5DE6D8-5FEB-4FA9-84BB-0716A1077BF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NbaTracker.Accessors", "NbaTracker.Accessors\NbaTracker.Accessors.csproj", "{3A071C0F-F79E-41AA-84FE-5DFCEFB1C827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NbaTracker.GameManager", "NbaTracker.GameManager\NbaTracker.GameManager.csproj", "{0B0AC61C-71CD-4214-B997-05A505E74361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NbaTracker.NbaApi", "NbaTracker.NbaApi\NbaTracker.NbaApi.csproj", "{DBE5D894-133B-4B79-B02B-A515BC08C8D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23FA771E-AE7F-47B4-BF29-7512B5921DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FA771E-AE7F-47B4-BF29-7512B5921DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FA771E-AE7F-47B4-BF29-7512B5921DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FA771E-AE7F-47B4-BF29-7512B5921DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D5DE6D8-5FEB-4FA9-84BB-0716A1077BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5DE6D8-5FEB-4FA9-84BB-0716A1077BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5DE6D8-5FEB-4FA9-84BB-0716A1077BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5DE6D8-5FEB-4FA9-84BB-0716A1077BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A071C0F-F79E-41AA-84FE-5DFCEFB1C827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A071C0F-F79E-41AA-84FE-5DFCEFB1C827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A071C0F-F79E-41AA-84FE-5DFCEFB1C827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A071C0F-F79E-41AA-84FE-5DFCEFB1C827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B0AC61C-71CD-4214-B997-05A505E74361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0AC61C-71CD-4214-B997-05A505E74361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0AC61C-71CD-4214-B997-05A505E74361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0AC61C-71CD-4214-B997-05A505E74361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE5D894-133B-4B79-B02B-A515BC08C8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE5D894-133B-4B79-B02B-A515BC08C8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE5D894-133B-4B79-B02B-A515BC08C8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE5D894-133B-4B79-B02B-A515BC08C8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3A071C0F-F79E-41AA-84FE-5DFCEFB1C827} = {BC0ACDFA-99E7-4E4E-93B9-FF5A9BE01736}
+		{5D5DE6D8-5FEB-4FA9-84BB-0716A1077BF5} = {5D804A37-ABAD-4B1E-855C-F84E36E36950}
+		{23FA771E-AE7F-47B4-BF29-7512B5921DB0} = {49ED5613-E256-4FDF-BA66-9924B7BDA830}
+		{0B0AC61C-71CD-4214-B997-05A505E74361} = {DC4864EA-39BB-42E5-89C6-3FEB2118B1AD}
+		{DBE5D894-133B-4B79-B02B-A515BC08C8D4} = {80849DCA-1C66-42E4-BBCB-0D4257D4EFA5}
+	EndGlobalSection
+EndGlobal

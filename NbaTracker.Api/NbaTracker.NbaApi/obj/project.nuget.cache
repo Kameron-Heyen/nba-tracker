@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PLFOskd0Rl0=",
+  "success": true,
+  "projectFilePath": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.NbaApi/NbaTracker.NbaApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/kameronheyen/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.1/microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "/Users/kameronheyen/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/bin/Debug/net8.0/NbaTracker.Common.deps.json
+/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/bin/Debug/net8.0/NbaTracker.Common.dll
+/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/bin/Debug/net8.0/NbaTracker.Common.pdb
+/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.AssemblyInfoInputs.cache
+/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.AssemblyInfo.cs
+/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.csproj.CoreCompileInputs.cache
+/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.sourcelink.json
+/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.dll
+/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/refint/NbaTracker.Common.dll
+/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.pdb
+/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/ref/NbaTracker.Common.dll
+/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.csproj.AssemblyReference.cache

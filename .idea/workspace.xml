@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9ffa773-c3a8-4a77-81bd-68b5be543d6e" name="Changes" comment="Add .gitignores">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nba-tracker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/.idea/.idea.NbaTracker.Api/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/.idea/.idea.NbaTracker.Api/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/.idea/.idea.NbaTracker.Api/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/.idea/.idea.NbaTracker.Api/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/GameManager/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/GameManager/GameManager.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/GameManager/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/GameManager/obj/Debug/net8.0/GameManager.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/GameManager/obj/Debug/net8.0/GameManager.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/GameManager/obj/Debug/net8.0/GameManager.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/GameManager/obj/Debug/net8.0/GameManager.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/GameManager/obj/Debug/net8.0/GameManager.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/GameManager/obj/GameManager.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/GameManager/obj/GameManager.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/GameManager/obj/GameManager.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/GameManager/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/GameManager/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/GameManager/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/GameManager/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/NbaTracker.Accessors.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/bin/Debug/net8.0/NbaTracker.Accessors.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/bin/Debug/net8.0/NbaTracker.Accessors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/bin/Debug/net8.0/NbaTracker.Accessors.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/Debug/net8.0/NbaTracker.Accessors.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/Debug/net8.0/NbaTracker.Accessors.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/Debug/net8.0/NbaTracker.Accessors.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/Debug/net8.0/NbaTracker.Accessors.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/Debug/net8.0/NbaTracker.Accessors.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/Debug/net8.0/NbaTracker.Accessors.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/Debug/net8.0/NbaTracker.Accessors.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/Debug/net8.0/NbaTracker.Accessors.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/Debug/net8.0/NbaTracker.Accessors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/Debug/net8.0/NbaTracker.Accessors.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/Debug/net8.0/NbaTracker.Accessors.sourcelink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/Debug/net8.0/ref/NbaTracker.Accessors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/Debug/net8.0/refint/NbaTracker.Accessors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/NbaTracker.Accessors.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/NbaTracker.Accessors.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/NbaTracker.Accessors.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Accessors/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Api.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/DataContracts/Arena.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/DataContracts/BoxScore.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/DataContracts/Game.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/DataContracts/GameLeader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/DataContracts/PlayerBoxScore.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/DataContracts/PlayerGameStats.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/DataContracts/Team.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/Enums/GameStatus.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/NbaTracker.Common.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/bin/Debug/net8.0/NbaTracker.Common.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/bin/Debug/net8.0/NbaTracker.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/bin/Debug/net8.0/NbaTracker.Common.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/NbaTracker.Common.sourcelink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/ref/NbaTracker.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/Debug/net8.0/refint/NbaTracker.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/NbaTracker.Common.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/NbaTracker.Common.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/NbaTracker.Common.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Common/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Functions/NbaTracker.Functions.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Functions/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Functions/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Functions/ScoresFunction.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Functions/host.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/GameManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/IGameManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/NbaTracker.GameManager.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/ServiceRegistration.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/bin/Debug/net8.0/NbaTracker.Accessors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/bin/Debug/net8.0/NbaTracker.Accessors.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/bin/Debug/net8.0/NbaTracker.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/bin/Debug/net8.0/NbaTracker.Common.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/bin/Debug/net8.0/NbaTracker.GameManager.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/bin/Debug/net8.0/NbaTracker.GameManager.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/bin/Debug/net8.0/NbaTracker.GameManager.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/bin/Debug/net8.0/NbaTracker.NbaApi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/bin/Debug/net8.0/NbaTracker.NbaApi.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/Debug/net8.0/NbaTrack.AE992FC2.Up2Date" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/Debug/net8.0/NbaTracker.GameManager.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/Debug/net8.0/NbaTracker.GameManager.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/Debug/net8.0/NbaTracker.GameManager.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/Debug/net8.0/NbaTracker.GameManager.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/Debug/net8.0/NbaTracker.GameManager.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/Debug/net8.0/NbaTracker.GameManager.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/Debug/net8.0/NbaTracker.GameManager.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/Debug/net8.0/NbaTracker.GameManager.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/Debug/net8.0/NbaTracker.GameManager.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/Debug/net8.0/NbaTracker.GameManager.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/Debug/net8.0/NbaTracker.GameManager.sourcelink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/Debug/net8.0/ref/NbaTracker.GameManager.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/Debug/net8.0/refint/NbaTracker.GameManager.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/NbaTracker.GameManager.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/NbaTracker.GameManager.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/NbaTracker.GameManager.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.GameManager/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Managers/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Managers/NbaTracker.Managers.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Managers/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Managers/obj/Debug/net8.0/NbaTracker.Managers.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Managers/obj/Debug/net8.0/NbaTracker.Managers.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Managers/obj/Debug/net8.0/NbaTracker.Managers.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Managers/obj/Debug/net8.0/NbaTracker.Managers.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Managers/obj/Debug/net8.0/NbaTracker.Managers.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Managers/obj/NbaTracker.Managers.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Managers/obj/NbaTracker.Managers.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Managers/obj/NbaTracker.Managers.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Managers/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Managers/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Managers/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Managers/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/INbaApi.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/NbaApi.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/NbaTracker.NbaApi.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/Requests/GetBoxScoreRequest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/Requests/GetTodaysGamesRequest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/Responses/GetBoxScoreResponse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/Responses/GetTodaysGamesResponse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/ServiceRegistration.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/bin/Debug/net8.0/NbaTracker.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/bin/Debug/net8.0/NbaTracker.Common.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/bin/Debug/net8.0/NbaTracker.NbaApi.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/bin/Debug/net8.0/NbaTracker.NbaApi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/bin/Debug/net8.0/NbaTracker.NbaApi.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/Debug/net8.0/NbaTrack.8467F229.Up2Date" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/Debug/net8.0/NbaTracker.NbaApi.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/Debug/net8.0/NbaTracker.NbaApi.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/Debug/net8.0/NbaTracker.NbaApi.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/Debug/net8.0/NbaTracker.NbaApi.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/Debug/net8.0/NbaTracker.NbaApi.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/Debug/net8.0/NbaTracker.NbaApi.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/Debug/net8.0/NbaTracker.NbaApi.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/Debug/net8.0/NbaTracker.NbaApi.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/Debug/net8.0/NbaTracker.NbaApi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/Debug/net8.0/NbaTracker.NbaApi.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/Debug/net8.0/NbaTracker.NbaApi.sourcelink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/Debug/net8.0/ref/NbaTracker.NbaApi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/Debug/net8.0/refint/NbaTracker.NbaApi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/NbaTracker.NbaApi.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/NbaTracker.NbaApi.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/NbaTracker.NbaApi.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.NbaApi/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Tests/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Tests/NbaTracker.Tests.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Tests/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Tests/obj/Debug/net8.0/NbaTracker.Tests.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Tests/obj/Debug/net8.0/NbaTracker.Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Tests/obj/Debug/net8.0/NbaTracker.Tests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Tests/obj/Debug/net8.0/NbaTracker.Tests.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Tests/obj/Debug/net8.0/NbaTracker.Tests.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Tests/obj/NbaTracker.Tests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Tests/obj/NbaTracker.Tests.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Tests/obj/NbaTracker.Tests.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Tests/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Tests/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Tests/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NbaTracker.Api/NbaTracker.Tests/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/app/app.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/app/components/score-card/score-card.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/app/components/score-card/score-card.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/app/components/score-card/score-card.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/app/components/score-card/score-card.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/app/pages/score-page/score-page.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/app/pages/score-page/score-page.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/app/pages/score-page/score-page.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/app/pages/score-page/score-page.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/app/services/score.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/app/services/score.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-tracker-app/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kameron-Heyen&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Kameron-Heyen/nba-tracker.git&quot;,
+    &quot;accountId&quot;: &quot;3a60ebc9-a640-40d8-85ba-ca3bca70cad8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2oV4UOsLd1QpsFuewGMiP42Qpwm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/kameronheyen/Source/personal/nba-tracker",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/kameronheyen/Source/personal/nba-tracker/nba-tracker-app/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/nba-tracker-app/public" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23726.96" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9ffa773-c3a8-4a77-81bd-68b5be543d6e" name="Changes" comment="" />
+      <created>1730941424278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730941424278</updated>
+      <workItem from="1730941425419" duration="7263000" />
+      <workItem from="1730951523151" duration="612000" />
+      <workItem from="1731263585334" duration="2412000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add .gitignores">
+      <option name="closed" value="true" />
+      <created>1731277842975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731277842975</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add .gitignores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add .gitignores" />
+  </component>
+</project>

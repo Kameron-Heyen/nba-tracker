@@ -1,0 +1,374 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Functions/NbaTracker.Functions.csproj": {}
+  },
+  "projects": {
+    "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Accessors/NbaTracker.Accessors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Accessors/NbaTracker.Accessors.csproj",
+        "projectName": "NbaTracker.Accessors",
+        "projectPath": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Accessors/NbaTracker.Accessors.csproj",
+        "packagesPath": "/Users/kameronheyen/.nuget/packages/",
+        "outputPath": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Accessors/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kameronheyen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/CS1uRJhcu6Dn13Hy1NpKeNP3TGHzMqyqpMjhDBOpyKc7ezFmvY/api": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/NbaTracker.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/NbaTracker.Common.csproj",
+        "projectName": "NbaTracker.Common",
+        "projectPath": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/NbaTracker.Common.csproj",
+        "packagesPath": "/Users/kameronheyen/.nuget/packages/",
+        "outputPath": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kameronheyen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/CS1uRJhcu6Dn13Hy1NpKeNP3TGHzMqyqpMjhDBOpyKc7ezFmvY/api": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Functions/NbaTracker.Functions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Functions/NbaTracker.Functions.csproj",
+        "projectName": "NbaTracker.Functions",
+        "projectPath": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Functions/NbaTracker.Functions.csproj",
+        "packagesPath": "/Users/kameronheyen/.nuget/packages/",
+        "outputPath": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Functions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kameronheyen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/CS1uRJhcu6Dn13Hy1NpKeNP3TGHzMqyqpMjhDBOpyKc7ezFmvY/api": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.GameManager/NbaTracker.GameManager.csproj": {
+                "projectPath": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.GameManager/NbaTracker.GameManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AzureFunctions.Worker.Extensions.AspNetCore": {
+              "target": "Package",
+              "version": "[1.0.10, )"
+            },
+            "Microsoft.ApplicationInsights.WorkerService": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            },
+            "Microsoft.Azure.Functions.Worker": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            },
+            "Microsoft.Azure.Functions.Worker.ApplicationInsights": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.Azure.Functions.Worker.Sdk": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.GameManager/NbaTracker.GameManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.GameManager/NbaTracker.GameManager.csproj",
+        "projectName": "NbaTracker.GameManager",
+        "projectPath": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.GameManager/NbaTracker.GameManager.csproj",
+        "packagesPath": "/Users/kameronheyen/.nuget/packages/",
+        "outputPath": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.GameManager/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kameronheyen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/CS1uRJhcu6Dn13Hy1NpKeNP3TGHzMqyqpMjhDBOpyKc7ezFmvY/api": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Accessors/NbaTracker.Accessors.csproj": {
+                "projectPath": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Accessors/NbaTracker.Accessors.csproj"
+              },
+              "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/NbaTracker.Common.csproj": {
+                "projectPath": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/NbaTracker.Common.csproj"
+              },
+              "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.NbaApi/NbaTracker.NbaApi.csproj": {
+                "projectPath": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.NbaApi/NbaTracker.NbaApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.NbaApi/NbaTracker.NbaApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.NbaApi/NbaTracker.NbaApi.csproj",
+        "projectName": "NbaTracker.NbaApi",
+        "projectPath": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.NbaApi/NbaTracker.NbaApi.csproj",
+        "packagesPath": "/Users/kameronheyen/.nuget/packages/",
+        "outputPath": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.NbaApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kameronheyen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/CS1uRJhcu6Dn13Hy1NpKeNP3TGHzMqyqpMjhDBOpyKc7ezFmvY/api": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/NbaTracker.Common.csproj": {
+                "projectPath": "/Users/kameronheyen/Source/personal/nba-tracker/NbaTracker.Api/NbaTracker.Common/NbaTracker.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
