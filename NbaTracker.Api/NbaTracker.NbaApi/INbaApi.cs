@@ -1,6 +1,4 @@
 using NbaTracker.Common.DataContracts;
-using NbaTracker.NbaApi.Requests;
-using NbaTracker.NbaApi.Responses;
 
 namespace NbaTracker.NbaApi;
 
