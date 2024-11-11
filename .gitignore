@@ -102,7 +102,6 @@ dist
 
 # vuepress v2.x temp and cache directory
 .temp
-.cache
 
 # Docusaurus cache and generated files
 .docusaurus
@@ -135,16 +134,12 @@ dist
 # Editor-based HTTP Client requests
 /httpRequests/
 
-# Default ignored files
-/shelf/
-/workspace.xml
 # Rider ignored files
 /projectSettingsUpdater.xml
 /.idea.NbaTracker.Api.iml
 /contentModel.xml
 /modules.xml
 # Editor-based HTTP Client requests
-/httpRequests/
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
@@ -195,15 +190,11 @@ Thumbs.db
 *.swp
 *.*~
 project.lock.json
-.DS_Store
 *.pyc
 nupkg/
 
 # Visual Studio Code
 .vscode/
-
-# Rider
-.idea/
 
 # Visual Studio
 .vs/

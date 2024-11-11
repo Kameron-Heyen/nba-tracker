@@ -5,6 +5,16 @@
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/NbaTracker.Api/GameManager/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/NbaTracker.Api/GameManager/obj/Debug/net8.0/ref" />
+      <excludeFolder url="file://$MODULE_DIR$/NbaTracker.Api/GameManager/obj/Debug/net8.0/refint" />
+      <excludeFolder url="file://$MODULE_DIR$/NbaTracker.Api/NbaTracker.Managers/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/NbaTracker.Api/NbaTracker.Managers/obj/Debug/net8.0/ref" />
+      <excludeFolder url="file://$MODULE_DIR$/NbaTracker.Api/NbaTracker.Managers/obj/Debug/net8.0/refint" />
+      <excludeFolder url="file://$MODULE_DIR$/NbaTracker.Api/NbaTracker.Tests/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/NbaTracker.Api/NbaTracker.Tests/obj/Debug/net8.0/ref" />
+      <excludeFolder url="file://$MODULE_DIR$/NbaTracker.Api/NbaTracker.Tests/obj/Debug/net8.0/refint" />
+      <excludeFolder url="file://$MODULE_DIR$/nba-tracker-app/.vscode" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

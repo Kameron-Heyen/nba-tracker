@@ -1,0 +1,70 @@
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <button class="nav-link active" id="home-tab" data-bs-toggle="tab" [attr.data-bs-target]="'#'+boxScore.homeTeam.teamTricode">{{boxScore.homeTeam.teamTricode}}</button>
+  </li>
+  <li class="nav-item">
+    <button class="nav-link" id="away-tab" data-bs-toggle="tab" [attr.data-bs-target]="'#'+boxScore.awayTeam.teamTricode">{{boxScore.awayTeam.teamTricode}}</button>
+  </li>
+</ul>
+<div class="tab-content">
+  <div class="tab-pane fade show active" id="{{boxScore.homeTeam.teamTricode}}">
+    <table class="table">
+      <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Player</th>
+        <th scope="col">PTS</th>
+        <th scope="col">REB</th>
+        <th scope="col">AST</th>
+        <th scope="col">STL</th>
+        <th scope="col">BLK</th>
+        <th scope="col">TO</th>
+        <th scope="col">+/-</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr *ngFor="let player of boxScore.homeTeamPlayers">
+        <th scope="row">{{player.jerseyNumber}}</th>
+        <td>{{player.lastName}}, {{player.firstName}}</td>
+        <td>{{player.gameStats.points}}</td>
+        <td>{{player.gameStats.offensiveRebounds + player.gameStats.defensiveRebounds}}</td>
+        <td>{{player.gameStats.assists}}</td>
+        <td>{{player.gameStats.steals}}</td>
+        <td>{{player.gameStats.blocks}}</td>
+        <td>{{player.gameStats.turnovers}}</td>
+        <td>{{player.gameStats.plusMinus}}</td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="tab-pane fade" id="{{boxScore.awayTeam.teamTricode}}">
+    <table class="table">
+      <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Player</th>
+        <th scope="col">PTS</th>
+        <th scope="col">REB</th>
+        <th scope="col">AST</th>
+        <th scope="col">STL</th>
+        <th scope="col">BLK</th>
+        <th scope="col">TO</th>
+        <th scope="col">+/-</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr *ngFor="let player of boxScore.awayTeamPlayers">
+        <th scope="row">{{player.jerseyNumber}}</th>
+        <td>{{player.lastName}}, {{player.firstName}}</td>
+        <td>{{player.gameStats.points}}</td>
+        <td>{{player.gameStats.offensiveRebounds + player.gameStats.defensiveRebounds}}</td>
+        <td>{{player.gameStats.assists}}</td>
+        <td>{{player.gameStats.steals}}</td>
+        <td>{{player.gameStats.blocks}}</td>
+        <td>{{player.gameStats.turnovers}}</td>
+        <td>{{player.gameStats.plusMinus}}</td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

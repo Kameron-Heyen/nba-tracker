@@ -53,8 +53,8 @@ public class NbaApi: INbaApi
                 }
             }
                 
-            boxScore.HomeTeamPlayers = homeTeamPlayers;
-            boxScore.AwayTeamPlayers = awayTeamPlayers;
+            boxScore.HomeTeamPlayers = homeTeamPlayers.OrderBy(x => x.SortOrder).ToList();
+            boxScore.AwayTeamPlayers = awayTeamPlayers.OrderBy(x => x.SortOrder).ToList();
             return boxScore;
         }
         throw new DataException("Game not found");
@@ -77,13 +77,13 @@ public class NbaApi: INbaApi
                 {
                     var game = new Game
                     {
-                        GameId = gameNode?["gameId"]?.ToString()?? throw new DataException("Game ID not found"),
-                        GameStatus = Enum.Parse<GameStatus>(gameNode["gameStatus"]?.ToString()??"0"),
-                        GameStatusText = gameNode["gameStatusText"]?.ToString()??"Game Status Unknown",
-                        Period = int.Parse(gameNode["period"]?.ToString()??"0"),
+                        GameId = gameNode?["gameId"]?.ToString() ?? throw new DataException("Game ID not found"),
+                        GameStatus = Enum.Parse<GameStatus>(gameNode["gameStatus"]?.ToString() ?? "0"),
+                        GameStatusText = gameNode["gameStatusText"]?.ToString() ?? "Game Status Unknown",
+                        Period = int.Parse(gameNode["period"]?.ToString() ?? "0"),
                         GameTime = DateTime.Parse(gameNode["gameTimeUTC"]!.ToString(), CultureInfo.InvariantCulture),
                         HomeTeam = ParseTeam(gameNode["homeTeam"]!),
-                        AwayTeam  = ParseTeam(gameNode["awayTeam"]!),
+                        AwayTeam = ParseTeam(gameNode["awayTeam"]!),
                         HomeGameLeader = ParseGameLeader(gameNode["gameLeaders"]?["homeLeaders"]!),
                         AwayGameLeader = ParseGameLeader(gameNode["gameLeaders"]?["awayLeaders"]!)
                     };
@@ -91,7 +91,6 @@ public class NbaApi: INbaApi
                     games.Add(game);
                 }
             }
-
             return games;
         }
         else
