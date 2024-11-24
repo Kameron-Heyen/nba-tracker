@@ -1,20 +1,24 @@
 <div class="card">
   <div class="d-flex flex-row align-items-center p-3" (click)="toggleExpand()">
-    <div class="d-flex flex-column p-1 align-items-center justify-content-center">
-      <div class="team-city">{{game.awayTeam.teamCity}}</div>
-      <div class="team-name">{{game.awayTeam.teamName}}</div>
-      <div class="score">{{game.awayTeam.score}}</div>
+    <div
+      class="d-flex flex-column p-1 align-items-center justify-content-center"
+    >
+      <div class="team-city">{{ game.awayTeam.teamCity }}</div>
+      <div class="team-name">{{ game.awayTeam.teamName }}</div>
+      <div class="score">{{ game.awayTeam.score }}</div>
     </div>
 
-      <div class="p-3">{{game.gameStatusText}}</div>
+    <div class="p-3">{{ game.gameStatusText }}</div>
 
-    <div class="d-flex flex-column p-1 align-items-center justify-content-center">
-      <div class="team-city">{{game.homeTeam.teamCity}}</div>
-      <div class="team-name">{{game.homeTeam.teamName}}</div>
-      <div class="score">{{game.homeTeam.score}}</div>
+    <div
+      class="d-flex flex-column p-1 align-items-center justify-content-center"
+    >
+      <div class="team-city">{{ game.homeTeam.teamCity }}</div>
+      <div class="team-name">{{ game.homeTeam.teamName }}</div>
+      <div class="score">{{ game.homeTeam.score }}</div>
     </div>
   </div>
   <div *ngIf="expanded && !boxScoreLoading">
-    <app-player-stats-table [boxScore]="boxScore!"/>
+    <app-player-stats-table [boxScore]="boxScore!" />
   </div>
 </div>

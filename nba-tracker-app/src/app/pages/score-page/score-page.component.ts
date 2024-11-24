@@ -1,27 +1,21 @@
-import {Component, OnInit} from '@angular/core';
-import {ScoreService} from "../../services/score.service";
-import {ScoreCardComponent} from "../../components/score-card/score-card.component";
-import {NgForOf, NgIf} from "@angular/common";
-import {Game} from "../../DataContracts/Game";
+import { Component, OnInit } from '@angular/core';
+import { ScoreService } from '../../services/score.service';
+import { ScoreCardComponent } from '../../components/score-card/score-card.component';
+import { NgForOf, NgIf } from '@angular/common';
+import { Game } from '../../DataContracts/Game';
 
 @Component({
   selector: 'app-score-page',
   standalone: true,
-  imports: [
-    ScoreCardComponent,
-    NgForOf,
-    NgIf
-  ],
+  imports: [ScoreCardComponent, NgForOf, NgIf],
   templateUrl: './score-page.component.html',
-  styleUrl: './score-page.component.scss'
+  styleUrl: './score-page.component.scss',
 })
 export class ScorePageComponent implements OnInit {
   games!: Game[];
   loading = true;
 
-  constructor(private readonly scoreService: ScoreService) {
-  }
-
+  constructor(private readonly scoreService: ScoreService) {}
 
   ngOnInit() {
     this.loadGames();

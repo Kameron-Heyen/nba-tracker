@@ -1,5 +1,5 @@
-import {Team} from "./Team";
-import {PlayerBoxScore} from "./PlayerBoxScore";
+import { Team } from './Team';
+import { PlayerBoxScore } from './PlayerBoxScore';
 
 export interface BoxScore {
   gameId: string;

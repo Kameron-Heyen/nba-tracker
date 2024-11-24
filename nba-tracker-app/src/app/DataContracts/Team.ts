@@ -3,8 +3,8 @@ export interface Team {
   teamName: string;
   teamCity: string;
   teamTricode: string;
-  wins: number ;
-  losses: number
+  wins: number;
+  losses: number;
   score: number;
   timeoutsRemaining: number;
 }

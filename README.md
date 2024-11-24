@@ -20,8 +20,8 @@ A simple web application to view NBA games and box scores. Planned work includes
 2. Run `NbaTracker.Functions` project
 
 ## Features
-- [ ] Display Today's NBA games
-- [ ] Display Box Score for a specific game
+- [x] Display Today's NBA games
+- [x] Display Box Score for a specific game
 
 ## Planned Features
 - [ ] Historical Database

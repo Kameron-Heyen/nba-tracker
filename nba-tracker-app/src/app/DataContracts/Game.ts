@@ -1,17 +1,17 @@
-import {GameStatusEnum} from "./enums/GameStatusEnum";
-import {Team} from "./Team";
-import {GameLeader} from "./GameLeader";
+import { GameStatusEnum } from './enums/GameStatusEnum';
+import { Team } from './Team';
+import { GameLeader } from './GameLeader';
 
 export interface Game {
   gameId: string;
   gameStatus: GameStatusEnum;
   gameStatusText: string;
-  period : number;
+  period: number;
   gameTime: Date;
 
   homeTeam: Team;
   awayTeam: Team;
 
-  homeGameLeader: GameLeader
-  awayGameLeader: GameLeader
+  homeGameLeader: GameLeader;
+  awayGameLeader: GameLeader;
 }

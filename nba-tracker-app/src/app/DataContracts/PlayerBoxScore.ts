@@ -1,4 +1,4 @@
-import {PlayerGameStats} from "./PlayerGameStats";
+import { PlayerGameStats } from './PlayerGameStats';
 
 export interface PlayerBoxScore {
   personId: number;
