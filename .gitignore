@@ -228,3 +228,4 @@ msbuild.log
 msbuild.err
 msbuild.wrn
 
+/nba-tracker-app/cypress/screenshots/

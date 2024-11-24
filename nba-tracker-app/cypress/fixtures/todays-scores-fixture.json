@@ -1,0 +1,317 @@
+[
+  {
+    "gameId": "0022400264",
+    "gameStatus": 3,
+    "gameStatusText": "Final               ",
+    "period": 4,
+    "gameTime": "2024-11-23T16:00:00-06:00",
+    "homeTeam": {
+      "teamId": 1610612762,
+      "teamName": "Jazz",
+      "teamCity": "Utah",
+      "teamTricode": "UTA",
+      "wins": 4,
+      "losses": 12,
+      "score": 121,
+      "timeoutsRemaining": 1
+    },
+    "awayTeam": {
+      "teamId": 1610612752,
+      "teamName": "Knicks",
+      "teamCity": "New York",
+      "teamTricode": "NYK",
+      "wins": 9,
+      "losses": 7,
+      "score": 106,
+      "timeoutsRemaining": 1
+    },
+    "homeGameLeader": {
+      "gameLeaderId": 1628374,
+      "name": "Lauri Markkanen",
+      "jerseyNumber": "23",
+      "position": "F-C",
+      "points": 34,
+      "rebounds": 9,
+      "assists": 2
+    },
+    "awayGameLeader": {
+      "gameLeaderId": 1626157,
+      "name": "Karl-Anthony Towns",
+      "jerseyNumber": "32",
+      "position": "C-F",
+      "points": 16,
+      "rebounds": 16,
+      "assists": 5
+    }
+  },
+  {
+    "gameId": "0022400265",
+    "gameStatus": 2,
+    "gameStatusText": "1st Qtr             ",
+    "period": 1,
+    "gameTime": "2024-11-23T18:00:00-06:00",
+    "homeTeam": {
+      "teamId": 1610612753,
+      "teamName": "Magic",
+      "teamCity": "Orlando",
+      "teamTricode": "ORL",
+      "wins": 10,
+      "losses": 7,
+      "score": 14,
+      "timeoutsRemaining": 6
+    },
+    "awayTeam": {
+      "teamId": 1610612765,
+      "teamName": "Pistons",
+      "teamCity": "Detroit",
+      "teamTricode": "DET",
+      "wins": 7,
+      "losses": 10,
+      "score": 13,
+      "timeoutsRemaining": 5
+    },
+    "homeGameLeader": {
+      "gameLeaderId": 1630532,
+      "name": "Franz Wagner",
+      "jerseyNumber": "22",
+      "position": "F",
+      "points": 2,
+      "rebounds": 3,
+      "assists": 3
+    },
+    "awayGameLeader": {
+      "gameLeaderId": 202699,
+      "name": "Tobias Harris",
+      "jerseyNumber": "12",
+      "position": "F",
+      "points": 5,
+      "rebounds": 2,
+      "assists": 0
+    }
+  },
+  {
+    "gameId": "0022400266",
+    "gameStatus": 1,
+    "gameStatusText": "8:00 pm ET",
+    "period": 0,
+    "gameTime": "2024-11-23T19:00:00-06:00",
+    "homeTeam": {
+      "teamId": 1610612741,
+      "teamName": "Bulls",
+      "teamCity": "Chicago",
+      "teamTricode": "CHI",
+      "wins": 7,
+      "losses": 10,
+      "score": 0,
+      "timeoutsRemaining": 0
+    },
+    "awayTeam": {
+      "teamId": 1610612763,
+      "teamName": "Grizzlies",
+      "teamCity": "Memphis",
+      "teamTricode": "MEM",
+      "wins": 9,
+      "losses": 7,
+      "score": 0,
+      "timeoutsRemaining": 0
+    },
+    "homeGameLeader": {
+      "gameLeaderId": 0,
+      "name": "",
+      "jerseyNumber": "",
+      "position": "",
+      "points": 0,
+      "rebounds": 0,
+      "assists": 0
+    },
+    "awayGameLeader": {
+      "gameLeaderId": 0,
+      "name": "",
+      "jerseyNumber": "",
+      "position": "",
+      "points": 0,
+      "rebounds": 0,
+      "assists": 0
+    }
+  },
+  {
+    "gameId": "0022400267",
+    "gameStatus": 1,
+    "gameStatusText": "8:00 pm ET",
+    "period": 0,
+    "gameTime": "2024-11-23T19:00:00-06:00",
+    "homeTeam": {
+      "teamId": 1610612745,
+      "teamName": "Rockets",
+      "teamCity": "Houston",
+      "teamTricode": "HOU",
+      "wins": 12,
+      "losses": 5,
+      "score": 0,
+      "timeoutsRemaining": 0
+    },
+    "awayTeam": {
+      "teamId": 1610612757,
+      "teamName": "Trail Blazers",
+      "teamCity": "Portland",
+      "teamTricode": "POR",
+      "wins": 6,
+      "losses": 10,
+      "score": 0,
+      "timeoutsRemaining": 0
+    },
+    "homeGameLeader": {
+      "gameLeaderId": 0,
+      "name": "",
+      "jerseyNumber": "",
+      "position": "",
+      "points": 0,
+      "rebounds": 0,
+      "assists": 0
+    },
+    "awayGameLeader": {
+      "gameLeaderId": 0,
+      "name": "",
+      "jerseyNumber": "",
+      "position": "",
+      "points": 0,
+      "rebounds": 0,
+      "assists": 0
+    }
+  },
+  {
+    "gameId": "0022400268",
+    "gameStatus": 1,
+    "gameStatusText": "8:00 pm ET",
+    "period": 0,
+    "gameTime": "2024-11-23T19:00:00-06:00",
+    "homeTeam": {
+      "teamId": 1610612749,
+      "teamName": "Bucks",
+      "teamCity": "Milwaukee",
+      "teamTricode": "MIL",
+      "wins": 7,
+      "losses": 9,
+      "score": 0,
+      "timeoutsRemaining": 0
+    },
+    "awayTeam": {
+      "teamId": 1610612766,
+      "teamName": "Hornets",
+      "teamCity": "Charlotte",
+      "teamTricode": "CHA",
+      "wins": 6,
+      "losses": 9,
+      "score": 0,
+      "timeoutsRemaining": 0
+    },
+    "homeGameLeader": {
+      "gameLeaderId": 0,
+      "name": "",
+      "jerseyNumber": "",
+      "position": "",
+      "points": 0,
+      "rebounds": 0,
+      "assists": 0
+    },
+    "awayGameLeader": {
+      "gameLeaderId": 0,
+      "name": "",
+      "jerseyNumber": "",
+      "position": "",
+      "points": 0,
+      "rebounds": 0,
+      "assists": 0
+    }
+  },
+  {
+    "gameId": "0022400269",
+    "gameStatus": 1,
+    "gameStatusText": "8:30 pm ET",
+    "period": 0,
+    "gameTime": "2024-11-23T19:30:00-06:00",
+    "homeTeam": {
+      "teamId": 1610612759,
+      "teamName": "Spurs",
+      "teamCity": "San Antonio",
+      "teamTricode": "SAS",
+      "wins": 8,
+      "losses": 8,
+      "score": 0,
+      "timeoutsRemaining": 0
+    },
+    "awayTeam": {
+      "teamId": 1610612744,
+      "teamName": "Warriors",
+      "teamCity": "Golden State",
+      "teamTricode": "GSW",
+      "wins": 12,
+      "losses": 3,
+      "score": 0,
+      "timeoutsRemaining": 0
+    },
+    "homeGameLeader": {
+      "gameLeaderId": 0,
+      "name": "",
+      "jerseyNumber": "",
+      "position": "",
+      "points": 0,
+      "rebounds": 0,
+      "assists": 0
+    },
+    "awayGameLeader": {
+      "gameLeaderId": 0,
+      "name": "",
+      "jerseyNumber": "",
+      "position": "",
+      "points": 0,
+      "rebounds": 0,
+      "assists": 0
+    }
+  },
+  {
+    "gameId": "0022400270",
+    "gameStatus": 1,
+    "gameStatusText": "10:30 pm ET",
+    "period": 0,
+    "gameTime": "2024-11-23T21:30:00-06:00",
+    "homeTeam": {
+      "teamId": 1610612747,
+      "teamName": "Lakers",
+      "teamCity": "Los Angeles",
+      "teamTricode": "LAL",
+      "wins": 10,
+      "losses": 5,
+      "score": 0,
+      "timeoutsRemaining": 0
+    },
+    "awayTeam": {
+      "teamId": 1610612743,
+      "teamName": "Nuggets",
+      "teamCity": "Denver",
+      "teamTricode": "DEN",
+      "wins": 8,
+      "losses": 6,
+      "score": 0,
+      "timeoutsRemaining": 0
+    },
+    "homeGameLeader": {
+      "gameLeaderId": 0,
+      "name": "",
+      "jerseyNumber": "",
+      "position": "",
+      "points": 0,
+      "rebounds": 0,
+      "assists": 0
+    },
+    "awayGameLeader": {
+      "gameLeaderId": 0,
+      "name": "",
+      "jerseyNumber": "",
+      "position": "",
+      "points": 0,
+      "rebounds": 0,
+      "assists": 0
+    }
+  }
+]
