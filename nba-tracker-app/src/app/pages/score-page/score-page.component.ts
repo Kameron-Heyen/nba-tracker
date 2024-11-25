@@ -3,6 +3,7 @@ import { ScoreService } from '../../services/score.service';
 import { ScoreCardComponent } from '../../components/score-card/score-card.component';
 import { NgForOf, NgIf } from '@angular/common';
 import { Game } from '../../DataContracts/Game';
+import { GameStatusEnum } from '../../DataContracts/enums/GameStatusEnum';
 
 @Component({
   selector: 'app-score-page',
@@ -27,5 +28,17 @@ export class ScorePageComponent implements OnInit {
       this.games = data;
       this.loading = false;
     });
+  }
+
+  get InProgressGames() {
+    return this.games.filter((g) => g.gameStatus === GameStatusEnum.InProgress);
+  }
+
+  get CompletedGames() {
+    return this.games.filter((g) => g.gameStatus === GameStatusEnum.Final);
+  }
+
+  get UpcomingGames() {
+    return this.games.filter((g) => g.gameStatus === GameStatusEnum.NotStarted);
   }
 }

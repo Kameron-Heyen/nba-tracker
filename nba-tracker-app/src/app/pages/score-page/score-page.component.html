@@ -1,6 +1,39 @@
 <div *ngIf="loading">
   <span>Loading...</span>
 </div>
-<div class="d-flex flex-row flex-wrap p-2" *ngIf="!loading">
-  <app-score-card *ngFor="let game of games" [game]="game"></app-score-card>
+
+<div
+  class="d-flex flex-row flex-wrap my-1 justify-content-center"
+  *ngIf="!loading"
+>
+  <div class="game-column" *ngIf="InProgressGames.length > 0">
+    <h1>In Progress</h1>
+    <div class="d-flex flex-column">
+      <app-score-card
+        class="my-1"
+        *ngFor="let game of InProgressGames"
+        [game]="game"
+      ></app-score-card>
+    </div>
+  </div>
+  <div class="game-column" *ngIf="UpcomingGames.length > 0">
+    <h1>Upcoming</h1>
+    <div class="d-flex flex-column">
+      <app-score-card
+        class="my-1"
+        *ngFor="let game of UpcomingGames"
+        [game]="game"
+      ></app-score-card>
+    </div>
+  </div>
+  <div class="game-column" *ngIf="CompletedGames.length > 0">
+    <h1>Final</h1>
+    <div class="d-flex flex-column">
+      <app-score-card
+        class="my-1"
+        *ngFor="let game of CompletedGames"
+        [game]="game"
+      ></app-score-card>
+    </div>
+  </div>
 </div>

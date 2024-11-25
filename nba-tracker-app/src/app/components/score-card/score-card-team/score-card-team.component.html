@@ -1,0 +1,13 @@
+<div class="d-flex flex-column p-1 align-items-center justify-content-center">
+  <div *ngIf="branding?.teamLogo !== undefined">
+    <img
+      [ngSrc]="branding!.teamLogo"
+      [alt]="team.teamName"
+      width="50"
+      height="50"
+    />
+  </div>
+  <div class="team-city">{{ team.teamCity }}</div>
+  <div class="team-name">{{ team.teamName }}</div>
+  <div class="score">{{ team.score }}</div>
+</div>

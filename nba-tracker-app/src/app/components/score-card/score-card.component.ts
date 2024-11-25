@@ -4,11 +4,12 @@ import { NgIf } from '@angular/common';
 import { PlayerStatsTableComponent } from '../player-stats-table/player-stats-table.component';
 import { BoxScore } from '../../DataContracts/BoxScore';
 import { ScoreService } from '../../services/score.service';
+import { ScoreCardTeamComponent } from './score-card-team/score-card-team.component';
 
 @Component({
   selector: 'app-score-card',
   standalone: true,
-  imports: [NgIf, PlayerStatsTableComponent],
+  imports: [NgIf, PlayerStatsTableComponent, ScoreCardTeamComponent],
   templateUrl: './score-card.component.html',
   styleUrl: './score-card.component.scss',
 })
@@ -31,7 +32,6 @@ export class ScoreCardComponent implements OnInit {
           .getBoxScore(this.game.gameId)
           .subscribe((boxScore) => {
             this.boxScore = boxScore;
-            console.log(this.boxScore);
             this.boxScoreLoading = false;
           });
       }
