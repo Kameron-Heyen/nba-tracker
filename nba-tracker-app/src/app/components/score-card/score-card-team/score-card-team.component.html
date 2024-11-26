@@ -1,5 +1,5 @@
 <div class="d-flex flex-column p-1 align-items-center justify-content-center">
-  <div *ngIf="branding?.teamLogo !== undefined">
+  <div *ngIf="branding?.teamLogo !== undefined" data-cy="score-card-team-logo">
     <img
       [ngSrc]="branding!.teamLogo"
       [alt]="team.teamName"
@@ -7,9 +7,11 @@
       height="65"
     />
   </div>
-  <div *ngIf="branding?.teamLogo !== undefined" class="team-city">
+  <div class="team-city" data-cy="score-card-team-city">
     {{ team.teamCity }}
   </div>
-  <div class="team-name">{{ team.teamName }}</div>
-  <div class="score">{{ team.score }}</div>
+  <div class="team-name" data-cy="score-card-team-name">
+    {{ team.teamName }}
+  </div>
+  <div class="score" data-cy="score-card-team-score">{{ team.score }}</div>
 </div>

@@ -6,7 +6,11 @@
   class="d-flex flex-row flex-wrap my-1 justify-content-center"
   *ngIf="!loading"
 >
-  <div class="game-column" *ngIf="InProgressGames.length > 0">
+  <div
+    class="game-column"
+    data-cy="games-in-progress-col"
+    *ngIf="InProgressGames.length > 0"
+  >
     <h1>In Progress</h1>
     <div class="d-flex flex-column">
       <app-score-card
@@ -16,7 +20,11 @@
       ></app-score-card>
     </div>
   </div>
-  <div class="game-column" *ngIf="UpcomingGames.length > 0">
+  <div
+    class="game-column"
+    data-cy="games-upcoming-col"
+    *ngIf="UpcomingGames.length > 0"
+  >
     <h1>Upcoming</h1>
     <div class="d-flex flex-column">
       <app-score-card
@@ -26,7 +34,11 @@
       ></app-score-card>
     </div>
   </div>
-  <div class="game-column" *ngIf="CompletedGames.length > 0">
+  <div
+    class="game-column"
+    data-cy="games-final-col"
+    *ngIf="CompletedGames.length > 0"
+  >
     <h1>Final</h1>
     <div class="d-flex flex-column">
       <app-score-card

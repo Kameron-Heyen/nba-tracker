@@ -5,6 +5,7 @@
       id="home-tab"
       data-bs-toggle="tab"
       [attr.data-bs-target]="'#' + boxScore.homeTeam.teamTricode"
+      data-cy="home-team-stats-nav-button"
     >
       {{ boxScore.homeTeam.teamTricode }}
     </button>
@@ -15,17 +16,18 @@
       id="away-tab"
       data-bs-toggle="tab"
       [attr.data-bs-target]="'#' + boxScore.awayTeam.teamTricode"
+      data-cy="away-team-stats-nav-button"
     >
       {{ boxScore.awayTeam.teamTricode }}
     </button>
   </li>
 </ul>
-<div class="tab-content">
+<div class="tab-content" data-cy="stats-table">
   <div
     class="tab-pane fade show active"
     id="{{ boxScore.homeTeam.teamTricode }}"
   >
-    <table class="table">
+    <table class="table" data-cy="home-team-stats-tab">
       <thead>
         <tr>
           <th scope="col">#</th>
@@ -60,7 +62,7 @@
     </table>
   </div>
   <div class="tab-pane fade" id="{{ boxScore.awayTeam.teamTricode }}">
-    <table class="table">
+    <table class="table" data-cy="away-team-stats-tab">
       <thead>
         <tr>
           <th scope="col">#</th>
