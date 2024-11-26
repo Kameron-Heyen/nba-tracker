@@ -4,11 +4,12 @@ import { ScoreCardComponent } from '../../components/score-card/score-card.compo
 import { NgForOf, NgIf } from '@angular/common';
 import { Game } from '../../DataContracts/Game';
 import { GameStatusEnum } from '../../DataContracts/enums/GameStatusEnum';
+import { LoadSpinnerComponent } from '../../components/load-spinner/load-spinner.component';
 
 @Component({
   selector: 'app-score-page',
   standalone: true,
-  imports: [ScoreCardComponent, NgForOf, NgIf],
+  imports: [ScoreCardComponent, NgForOf, NgIf, LoadSpinnerComponent],
   templateUrl: './score-page.component.html',
   styleUrl: './score-page.component.scss',
 })

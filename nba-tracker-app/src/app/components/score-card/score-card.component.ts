@@ -5,11 +5,18 @@ import { PlayerStatsTableComponent } from '../player-stats-table/player-stats-ta
 import { BoxScore } from '../../DataContracts/BoxScore';
 import { ScoreService } from '../../services/score.service';
 import { ScoreCardTeamComponent } from './score-card-team/score-card-team.component';
+import { GameStatusEnum } from '../../DataContracts/enums/GameStatusEnum';
+import { LoadSpinnerComponent } from '../load-spinner/load-spinner.component';
 
 @Component({
   selector: 'app-score-card',
   standalone: true,
-  imports: [NgIf, PlayerStatsTableComponent, ScoreCardTeamComponent],
+  imports: [
+    NgIf,
+    PlayerStatsTableComponent,
+    ScoreCardTeamComponent,
+    LoadSpinnerComponent,
+  ],
   templateUrl: './score-card.component.html',
   styleUrl: './score-card.component.scss',
 })
@@ -38,4 +45,6 @@ export class ScoreCardComponent implements OnInit {
     }
     this.expanded = !this.expanded;
   }
+
+  protected readonly GameStatusEnum = GameStatusEnum;
 }
